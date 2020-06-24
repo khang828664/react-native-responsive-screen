@@ -1,5 +1,5 @@
 // packages
-import { Dimensions, PixelRatio } from 'react-native';
+import { Dimensions, PixelRatio } from 'react-native-web';
 
 // Retrieve initial screen's width
 let screenWidth = Dimensions.get('window').width;
